@@ -21,6 +21,17 @@
 - [信源·智鉴](https://github.com/rodriguezrobertbfrkx6857-sudo/rag-poisoning-detection-trusted-provenance)：RAG 知识库投毒检测、可信溯源、冲突图谱和自净化原型。
 - [AudioRelay](https://github.com/rodriguezrobertbfrkx6857-sudo/audio-relay)：Windows WASAPI 到 iPad Safari 的局域网 PCM 音频中继。
 
+## 本地优先开发工具
+
+| 项目 | 关注点 | 可验证内容 |
+|---|---|---|
+| [MCP Workbench](https://github.com/rodriguezrobertbfrkx6857-sudo/mcp-workbench) | MCP 服务检查与安全调试 | JSON Schema 探索、风险分类、调用历史、Vitest/CI |
+| [QA Sentinel](https://github.com/rodriguezrobertbfrkx6857-sudo/qa-sentinel) | 自动化 Web 质量门禁 | Playwright 多视口检查、缺陷夹具、HTML/Markdown/JSON 报告 |
+| [Data Cleanroom Studio](https://github.com/rodriguezrobertbfrkx6857-sudo/data-cleanroom-studio) | 本地数据清洗与质量校验 | 画像、去重、规范化、规则验证、审计导出 |
+| [Webhook Observatory](https://github.com/rodriguezrobertbfrkx6857-sudo/webhook-observatory) | Webhook 观测与故障恢复 | HMAC 验证、契约检查、重放 diff、有限重试 |
+| [BrowserOps Capture](https://github.com/rodriguezrobertbfrkx6857-sudo/browserops-capture) | 隐私优先网页采集 | Manifest V3、activeTab、本地 DOM 提取、多格式导出 |
+| [Document Pipeline Studio](https://github.com/rodriguezrobertbfrkx6857-sudo/document-pipeline-studio) | 文档解析与结构化抽取 | FastAPI、PDF/CSV/JSON 解析、来源追溯、逐行 diff |
+
 ## 复现原则
 
 每个仓库都保留源代码、测试、结构化结果和 GitHub Actions。性能结论遵循“正确性 → 预热 → 重复测量 → 同步 → 统计 → 决策”的顺序；只有实际 CUDA 执行、正确性通过且环境证据完整时，才允许形成 CUDA 性能结论。
