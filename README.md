@@ -44,3 +44,18 @@
 - 服务项目提供 API/协议契约测试和 CI smoke 验证。
 - 不提交虚拟环境、构建目录、运行数据库、日志或本机绝对路径。
 - 不把历史归档记录包装成本次独立验收结果。
+## 3D / Interactive Media
+
+A focused Godot 4.7 portfolio set for real-time 3D environment work, technical-art review, and interactive media prototyping. The projects are procedural and license-safe, with source code, runtime screenshots, and QA notes kept together.
+
+### Featured Projects
+
+| Project | Evidence |
+|---|---|
+| [Godot 3D Environment Showcase](https://github.com/rodriguezrobertbfrkx6857-sudo/godot-3d-environment-showcase) | PBR materials, normal / roughness / metallic study, key-fill-rim lighting, interaction, collision, camera rig |
+| [Godot 3D Scene Audit Toolkit](https://github.com/rodriguezrobertbfrkx6857-sudo/godot-3d-scene-audit-toolkit) | Scene validation, material and mesh checks, collision review, structured PASS / WARNING / ERROR report |
+| [Godot Material & Lighting Lab](https://github.com/rodriguezrobertbfrkx6857-sudo/godot-material-lighting-lab) | Roughness, metallic, normal, emission, transparency, lighting presets, camera presets, live debug telemetry |
+
+### Technical Skills
+
+Godot 4.7 · GDScript · Real-time 3D · Procedural geometry · PBR materials · Lighting and shadows · Camera systems · Scene QA · Technical-art review · Interactive UI · Git / GitHub
