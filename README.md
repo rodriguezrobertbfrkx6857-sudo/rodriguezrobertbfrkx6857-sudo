@@ -18,6 +18,8 @@
 
 ## 系统工程作品
 
+- [**OpenDot Enhanced · 多 Agent 可靠执行框架**](projects/opendot-enhanced/README.md)：DAG 协作、SQLite 持久任务、fencing、副作用对账、工具回执与哈希验证；[公开架构与源码选摘](projects/opendot-enhanced/code-excerpts/README.md)，完整应用仍私有。
+
 - [信源·智鉴](https://github.com/rodriguezrobertbfrkx6857-sudo/rag-poisoning-detection-trusted-provenance)：RAG 知识库投毒检测、可信溯源、冲突图谱和自净化原型。
 - [AudioRelay](https://github.com/rodriguezrobertbfrkx6857-sudo/audio-relay)：Windows WASAPI 到 iPad Safari 的局域网 PCM 音频中继。
 
