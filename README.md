@@ -6,12 +6,12 @@
 
 ## 代表项目 · Featured Projects
 
-### 01 · [百骑谱 Baiqipu｜知识检索与可溯源 Research 工作流](https://github.com/rodriguezrobertbfrkx6857-sudo/xpert-portfolio/tree/main/projects/steedatlas-showcase)
+### 01 · [百骑谱 Baiqipu / SteedAtlas｜可溯源知识检索与内容工作流](https://github.com/rodriguezrobertbfrkx6857-sudo/SteedAtlas)
 
-面向名马文化资料的知识检索、问答与内容工作流。原项目使用 **FastAPI / SQLAlchemy** 组织领域资料与后端服务，围绕中文别名、**BM25 检索、来源版本与文本哈希/引用区间校验**，探索可复查的回答依据，以及受限工具调用和持久化任务编排。
+面向名马文化资料，结合 FastAPI / SQLAlchemy、中文别名与 BM25 检索、来源版本和引文区间核验，实现原文溯源、受限 Research 工具调度与持久化内容任务。
 
-- **公开可查看：** [工程缩小版与运行说明](https://github.com/rodriguezrobertbfrkx6857-sudo/xpert-portfolio/tree/main/projects/steedatlas-showcase) · [简历用技术摘要](https://github.com/rodriguezrobertbfrkx6857-sudo/xpert-portfolio/blob/main/projects/steedatlas-showcase/docs/RESUME_PROJECT.md)
-- **证据范围：** 公开合成演示有 25 项回归测试记录；原私有项目另有 104 项后端测试通过的历史验收记录。两者不混用，资料引用核验也不等同于历史事实审定。
+- **公开可查看：** [最新版独立源码仓库与截图](https://github.com/rodriguezrobertbfrkx6857-sudo/SteedAtlas) · [启动演示](https://github.com/rodriguezrobertbfrkx6857-sudo/SteedAtlas/blob/main/docs/resume-readiness/DEMO_RUNBOOK.md)
+- **证据范围：** 最新版历史验收104项后端测试通过；机器引文核验不等于史实审定，实时LLM综合问答与生产部署未验收。用户数据库及密钥不公开。
 
 ### 02 · [Gemma 4 Developer Agent｜仓库级代码修复与证据校验](https://github.com/rodriguezrobertbfrkx6857-sudo/xpert-portfolio/tree/main/projects/gemma4-coding-agent)
 
