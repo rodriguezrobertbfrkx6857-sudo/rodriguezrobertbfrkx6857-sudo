@@ -13,18 +13,18 @@
 - **公开可查看：** [最新版独立源码仓库与截图](https://github.com/rodriguezrobertbfrkx6857-sudo/SteedAtlas) · [启动演示](https://github.com/rodriguezrobertbfrkx6857-sudo/SteedAtlas/blob/main/docs/resume-readiness/DEMO_RUNBOOK.md)
 - **证据范围：** 最新版历史验收104项后端测试通过；机器引文核验不等于史实审定，实时LLM综合问答与生产部署未验收。用户数据库及密钥不公开。
 
-### 02 · [Gemma 4 Developer Agent｜仓库级代码修复与证据校验](https://github.com/rodriguezrobertbfrkx6857-sudo/xpert-portfolio/tree/main/projects/gemma4-coding-agent)
+### 02 · [Gemma 4 Developer Agent｜仓库级代码修复与证据校验](https://github.com/rodriguezrobertbfrkx6857-sudo/gemma4-coding-agent)
 
-围绕 Python 软件仓库中的 Issue 修复任务，研究 Agent 从代码定位、工具调用、文件编辑、Patch 生成到独立测试的过程。公开选摘包含 **源码 SHA 版本校验、多文件写前预检、AST 检查、失败回滚、补丁审计与评测回执关联**等组件。
+围绕 Kaggle Google - The Gemma 4 Developer Agent Competition 的 Python 软件仓库 Issue 修复任务，研究 Agent 从代码定位、工具调用、文件编辑、Patch 生成到独立测试的过程。公开选摘包含 **源码 SHA 版本校验、多文件写前预检、AST 检查、失败回滚、补丁审计与评测回执关联**等组件。
 
-- **公开可查看：** [核心组件与合成测试](https://github.com/rodriguezrobertbfrkx6857-sudo/xpert-portfolio/tree/main/projects/gemma4-coding-agent) · [历史 FastAPI 修复案例](https://github.com/rodriguezrobertbfrkx6857-sudo/xpert-portfolio/tree/main/projects/gemma4-coding-agent/demo)
+- **公开可查看：** [核心组件与合成测试](https://github.com/rodriguezrobertbfrkx6857-sudo/gemma4-coding-agent) · [历史 FastAPI 修复案例](https://github.com/rodriguezrobertbfrkx6857-sudo/gemma4-coding-agent/tree/main/demo)
 - **证据范围：** 案例回放对应一个已知任务、11 项测试通过记录；它不是 11 个修复任务，也不代表未知任务成功率或 Kaggle 获奖。完整竞赛与实验仓库仍未公开。
 
-### 03 · [OpenDot Enhanced｜多 Agent 可靠执行框架](https://github.com/rodriguezrobertbfrkx6857-sudo/rodriguezrobertbfrkx6857-sudo/tree/master/projects/opendot-enhanced)
+### 03 · [OpenDot Enhanced｜多 Agent 可靠执行框架](https://github.com/rodriguezrobertbfrkx6857-sudo/opendot-enhanced)
 
 基于开源 **OpenDot / pi** 的框架扩展，关注多 Agent 任务 DAG、独立会话、工具权限审批、**SQLite 状态持久化、租约/fencing、任务中断恢复**，以及文件哈希和执行回执验证，减少“声称完成但未交付”的情况。
 
-- **公开可查看：** [架构、验证边界与工程说明](https://github.com/rodriguezrobertbfrkx6857-sudo/rodriguezrobertbfrkx6857-sudo/blob/master/projects/opendot-enhanced/README.md) · [TypeScript 源码选摘](https://github.com/rodriguezrobertbfrkx6857-sudo/rodriguezrobertbfrkx6857-sudo/tree/master/projects/opendot-enhanced/code-excerpts)
+- **公开可查看：** [架构、验证边界与工程说明](https://github.com/rodriguezrobertbfrkx6857-sudo/opendot-enhanced/blob/main/README.md) · [TypeScript 源码选摘](https://github.com/rodriguezrobertbfrkx6857-sudo/opendot-enhanced/tree/main/code-excerpts)
 - **证据范围：** 原完整工程记录 1,123 项回归通过（包含上游基线）、34/34 UI E2E（FakeProvider）；公开内容是选摘，不是完整可运行桌面应用或真实模型自治能力证明。
 
 ## 相关研究与算法实践
